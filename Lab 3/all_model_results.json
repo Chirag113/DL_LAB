@@ -1,0 +1,46 @@
+{
+  "lenet5": {
+    "final_train_acc": 62.436,
+    "final_test_acc": 61.34
+  },
+  "alexnet": {
+    "final_train_acc": 72.246,
+    "final_test_acc": 70.32
+  },
+  "vggnet": {
+    "final_train_acc": 79.892,
+    "final_test_acc": 73.72
+  },
+  "resnet50": {
+    "final_train_acc": 85.084,
+    "final_test_acc": 81.06
+  },
+  "resnet100": {
+    "final_train_acc": 73.684,
+    "final_test_acc": 72.06
+  },
+  "efficientnet": {
+    "final_train_acc": 63.604,
+    "final_test_acc": 63.69
+  },
+  "inceptionv3": {
+    "final_train_acc": 51.574,
+    "final_test_acc": 52.8
+  },
+  "mobilenet": {
+    "final_train_acc": 56.424,
+    "final_test_acc": 57.49
+  },
+  "vggnet_bce": {
+    "final_train_acc": 94.066,
+    "final_test_acc": 77.98
+  },
+  "alexnet_focal": {
+    "final_train_acc": 86.54,
+    "final_test_acc": 79.87
+  },
+  "resnet_arcface": {
+    "final_train_acc": 9.454,
+    "final_test_acc": 8.96
+  }
+}
